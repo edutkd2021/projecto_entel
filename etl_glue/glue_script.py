@@ -295,7 +295,5 @@ try:
     else:
         print("Opcion desconocida")
     
-    
-    
 except Exception as e:
     traceback.print_exc()
